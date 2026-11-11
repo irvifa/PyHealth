@@ -1,3 +1,11 @@
+.. note::
+
+   **CS 598 DLH reproduction branch.** The ProtoECGNet / PTB-XL experiments,
+   results and exact run steps are in
+   `experiments/protoecgnet/README.md <experiments/protoecgnet/README.md>`_.
+   The library code was merged upstream in
+   `sunlabuiuc/PyHealth#1323 <https://github.com/sunlabuiuc/PyHealth/pull/1323>`_.
+
 PyHealth
 ========
 

@@ -1,0 +1,20 @@
+{
+  "root": "/Users/irvifa/workspace/dataset",
+  "synthetic": false,
+  "dev": false,
+  "branch": "rhythm",
+  "seeds": "0,1,2",
+  "epochs": 20,
+  "classifier_epochs": 15,
+  "rounds": 1,
+  "width": 64,
+  "proto_dim": 128,
+  "prototypes_per_label": 0,
+  "batch_size": 32,
+  "lr": 0.001,
+  "device": "mps",
+  "cache_dir": "/Users/irvifa/.cache/pyhealth-ptbxl",
+  "out_dir": "experiments/protoecgnet/runs/rhythm_mac",
+  "bootstrap": 1000,
+  "summarize_only": false
+}

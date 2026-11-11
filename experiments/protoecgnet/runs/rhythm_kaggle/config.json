@@ -1,0 +1,20 @@
+{
+  "root": "/tmp/ptbxl/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3",
+  "synthetic": false,
+  "dev": false,
+  "branch": "rhythm",
+  "seeds": "3,4,5",
+  "epochs": 20,
+  "classifier_epochs": 15,
+  "rounds": 1,
+  "width": 64,
+  "proto_dim": 128,
+  "prototypes_per_label": 0,
+  "batch_size": 32,
+  "lr": 0.001,
+  "device": "cuda",
+  "cache_dir": "/tmp/pyhealth-cache",
+  "out_dir": "/kaggle/working/runs/rhythm_kaggle",
+  "bootstrap": 1000,
+  "summarize_only": false
+}
